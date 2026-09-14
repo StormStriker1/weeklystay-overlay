@@ -1,3 +1,29 @@
 {
-  "listings": []
+  "listings": [
+    {
+      "slug": "springdale",
+      "nightlyFrom": 69,
+      "threeDayFrom": 175,
+      "weeklyFrom": 315,
+      "monthlyFrom": null,
+      "phone": "+1 (513) 771-2457",
+      "name": "Studio Lodge of Springdale",
+      "summary": "A practical home base for work crews, relocation stays, and guests who need an easy weekly hotel option near Cincinnati.",
+      "intro": "Stay payment collected at check-in",
+      "amenities": [
+        "Kitchenette",
+        "Fridge",
+        "Microwave",
+        "Free WiFi",
+        "Workspace",
+        "Desk",
+        "Guest laundry",
+        "Laundry access",
+        "Free Parking",
+        "Weekly rates",
+        "ADA accessible room"
+      ],
+      "hidden": false
+    }
+  ]
 }
